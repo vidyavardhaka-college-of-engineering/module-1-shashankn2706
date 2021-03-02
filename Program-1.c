@@ -14,4 +14,4 @@ int main()        // correct the code
     printf("You entered: %d", number);// Correct the code
     
     return 0;
-    }
+}
