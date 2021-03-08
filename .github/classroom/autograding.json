@@ -35,7 +35,7 @@
       "setup": "cc Program-4.c",
       "run": "./a.out",
       "input": "25 4",
-      "output": "Quotient = 6Remainder = 1",
+      "output": "Quotient = 6 Remainder = 1",
       "comparison": "included",
       "timeout": 10,
       "points": 10
