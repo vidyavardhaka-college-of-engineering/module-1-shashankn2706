@@ -5,7 +5,6 @@ int main() {
     int dividend, divisor, quotient, remainder;
     printf("Enter dividend and Divisor ");
     scanf("%d%d", &dividend,&divisor);  //correct the code
-   
     // Computes quotient
     quotient = dividend / divisor;  //corect the code
 
